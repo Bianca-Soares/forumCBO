@@ -1,15 +1,21 @@
 .header {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     background: #1abc9c;
     color: white;
+
+}
+
+.header p {
     font-size: 10px;
 }
 
 
 /* Page Content */
 .content {padding:20px;}
-
+.navbar{
+    float: left;
+}
 
 body {
     font-family: 'Nunito';
